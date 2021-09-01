@@ -128,15 +128,9 @@ PyWavelets==1.0.3
 PyYAML==5.1.2
 pyzmq==18.1.00
 rope==0.14.0
-ruamel-yaml==0.15.46
-scikit-image==0.15.0
 scikit-learn==0.21.3
 seaborn==0.9.0
 simplegeneric==0.8.1
-six==1.12.0
-snowballstemmer==2.0.0
-sortedcollections==1.1.2
-sortedcontainers==2.1.0
 soupsieve==1.9.3
 SQLAlchemy==1.3.9
 statsmodels==0.10.1
