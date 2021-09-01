@@ -139,5 +139,3 @@ wcwidth==0.1.7
 webencodings==0.5.1
 XlsxWriter==1.2.1
 xlwings==0.15.10
-zict==1.0.0
-zipp==0.6.0
